@@ -15,9 +15,6 @@ Software Engineer • Full-Stack Developer • Problem Solver
   <a href="https://github.com/adityaraj0543?tab=followers">
     <img src="https://img.shields.io/github/followers/adityaraj0543?label=Followers&style=flat" alt="GitHub Followers"/>
   </a>
-  <a href="https://github.com/adityaraj0543?tab=repositories">
-    <img src="https://img.shields.io/github/stars/adityaraj0543?label=Stars&style=flat" alt="GitHub Stars"/>
-  </a>
 </p>
 
 ---
@@ -29,9 +26,9 @@ I'm a **Computer Science & Engineering student and aspiring Software Engineer** 
 * 🎓 B.Tech in Computer Science & Engineering
 * 💻 Focused on **Java, Spring Boot, MERN & Full-Stack Development**
 * 🧠 Strong interest in **Data Structures & Algorithms**
-* 🚀 Building real-world projects to strengthen software engineering skills
-* 🔐 Interested in backend architecture, APIs, databases and scalable systems
-* 📈 Continuously learning, building and improving
+* 🚀 Building real-world applications and continuously improving my engineering skills
+* 🔐 Interested in backend engineering, APIs, databases and scalable systems
+* 📈 Always learning, building and improving
 * 💡 Fun fact: **I can spend hours debugging one line of code—and somehow enjoy every minute of it 😄**
 
 ---
@@ -126,8 +123,9 @@ I'm a **Computer Science & Engineering student and aspiring Software Engineer** 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityaraj0543&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj0543&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adityaraj0543&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=tokyonight" height="180" alt="GitHub Statistics"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj0543&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180" alt="Top Languages"/>
 </p>
 
 ---
@@ -140,163 +138,37 @@ I'm a **Computer Science & Engineering student and aspiring Software Engineer** 
 
 ---
 
-# 📈 Contribution Activity
+# 📈 GitHub Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaraj0543&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Activity Graph"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=adityaraj0543&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contribution Activity"/>
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🟩 Contribution Calendar
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityaraj0543&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+  <img src="https://ghchart.rshah.org/0e75b6/adityaraj0543" alt="Aditya Raj GitHub Contribution Calendar"/>
 </p>
 
 ---
 
-# 📌 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-<h3 align="center">🚀 CampusHub</h3>
+# 💻 LeetCode Analytics
 
 <p align="center">
-A centralized campus platform designed to connect students, resources, events and opportunities in one place.
-</p>
-
-<p align="center">
-<b>MERN • MongoDB • Express.js • React • Node.js</b>
-</p>
-
-<p align="center">
-<a href="https://github.com/adityaraj0543">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">💬 Real-Time Chat Application</h3>
-
-<p align="center">
-Real-time messaging application with live communication, authentication and persistent message storage.
-</p>
-
-<p align="center">
-<b>Java • Spring Boot • WebSocket • MySQL</b>
-</p>
-
-<p align="center">
-<a href="https://github.com/adityaraj0543">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-<h3 align="center">🛒 Full-Stack E-Commerce</h3>
-
-<p align="center">
-Full-stack e-commerce platform with product catalog, authentication, cart management and REST APIs.
-</p>
-
-<p align="center">
-<b>Java • Spring Boot • MySQL • REST API</b>
-</p>
-
-<p align="center">
-<a href="https://github.com/adityaraj0543">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">🔗 URL Shortener</h3>
-
-<p align="center">
-A lightweight web application that converts long URLs into short, shareable links.
-</p>
-
-<p align="center">
-<b>JavaScript • Node.js • Express • MongoDB</b>
-</p>
-
-<p align="center">
-<a href="https://github.com/adityaraj0543">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
-# 🧠 Problem Solving
-
-<p align="center">
-  <a href="https://leetcode.com/u/pjzlxpzmjq/">
-    <img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-<strong>300+ problems solved • DSA • Algorithms • Problem Solving</strong>
-</p>
-
-<p align="center">
-<a href="https://leetcode.com/u/pjzlxpzmjq/">
-<img src="https://leetcard.jacoblin.cool/pjzlxpzmjq?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Statistics"/>
-</a>
-</p>
-
----
-
-# 📊 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityaraj0543&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Statistics"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaraj0543&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://leetcard.jacoblin.cool/pjzlxpzmjq?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Analytics"/>
 </p>
 
 ---
 
 # 📚 Currently Learning
 
-```text
-Java & DSA
-      ↓
-Spring Boot
-      ↓
-REST APIs & Microservices
-      ↓
-SQL & Database Design
-      ↓
-MERN Stack
-      ↓
-System Design
-      ↓
-Cloud & DevOps
-```
+<p align="center">
 
-I'm continuously improving my knowledge of **data structures, backend engineering, databases, system design and modern full-stack development.**
+`Java` • `DSA` • `Spring Boot` • `REST APIs` • `SQL` • `MERN` • `System Design` • `Cloud & DevOps`
+
+</p>
 
 ---
 
@@ -344,5 +216,5 @@ I'm continuously improving my knowledge of **data structures, backend engineerin
 </p>
 
 <p align="center">
-  ⭐ If you find my projects interesting, consider giving them a star!
+  ⭐ Thanks for visiting my profile!
 </p>
