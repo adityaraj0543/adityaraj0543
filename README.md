@@ -143,23 +143,6 @@ I'm a **Computer Science & Engineering student and aspiring Software Engineer** 
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img 
-src="https://github-readme-stats.vercel.app/api?username=adityaraj0543&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight&cache_seconds=86400"
-height="180"
-alt="GitHub Statistics"
-/>
-
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj0543&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&cache_seconds=86400"
-height="180"
-alt="Top Languages"
-/>
-
-</p>
 
 ---
 
