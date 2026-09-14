@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Raj</h1>
 
 <h3 align="center">
-Software Engineer • Full-Stack Developer • Problem Solver
+Software Engineer • Developer • Problem Solver
 </h3>
 
 <p align="center">
