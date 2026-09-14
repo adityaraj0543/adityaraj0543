@@ -21,14 +21,14 @@ Software Engineer • Full-Stack Developer • Problem Solver
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science & Engineering student and aspiring Software Engineer** focused on building reliable, scalable and user-focused software.
+I'm a **Computer Science & Engineering student and aspiring Software Engineer** focused on building reliable, scalable, and user-focused software.
 
 * 🎓 B.Tech in Computer Science & Engineering
 * 💻 Focused on **Java, Spring Boot, MERN & Full-Stack Development**
 * 🧠 Strong interest in **Data Structures & Algorithms**
 * 🚀 Building real-world applications and continuously improving my engineering skills
-* 🔐 Interested in backend engineering, APIs, databases and scalable systems
-* 📈 Always learning, building and improving
+* 🔐 Interested in backend engineering, APIs, databases, and scalable systems
+* 📈 Always learning, building, and improving
 * 💡 Fun fact: **I can spend hours debugging one line of code—and somehow enjoy every minute of it 😄**
 
 ---
@@ -41,15 +41,19 @@ I'm a **Computer Science & Engineering student and aspiring Software Engineer** 
 <a href="https://www.java.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
 </a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
 </a>
+
 <a href="https://www.typescriptlang.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
 </a>
+
 <a href="https://www.python.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
 </a>
+
 <a href="https://isocpp.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
 </a>
@@ -58,64 +62,83 @@ I'm a **Computer Science & Engineering student and aspiring Software Engineer** 
 ### 🌐 Frontend
 
 <p align="left">
+
 <a href="https://react.dev/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
 </a>
+
 <a href="https://angular.dev/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="45" height="45" alt="Angular"/>
 </a>
+
 <a href="https://nextjs.org/">
 <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45" height="45" alt="Next.js"/>
 </a>
+
 <a href="https://www.w3.org/html/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
 </a>
+
 <a href="https://www.w3.org/Style/CSS/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
 </a>
+
 <a href="https://tailwindcss.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
 </a>
+
 </p>
 
 ### ⚙️ Backend & Databases
 
 <p align="left">
+
 <a href="https://spring.io/projects/spring-boot">
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="45" height="45" alt="Spring Boot"/>
 </a>
+
 <a href="https://nodejs.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
 </a>
+
 <a href="https://expressjs.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express.js"/>
 </a>
+
 <a href="https://www.mongodb.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/>
 </a>
+
 <a href="https://www.mysql.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
 </a>
+
 <a href="https://www.postgresql.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="PostgreSQL"/>
 </a>
+
 </p>
 
 ### ☁️ Tools & DevOps
 
 <p align="left">
+
 <a href="https://git-scm.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
 </a>
+
 <a href="https://github.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
 </a>
+
 <a href="https://www.docker.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="Docker"/>
 </a>
+
 <a href="https://aws.amazon.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS"/>
 </a>
+
 </p>
 
 ---
@@ -123,9 +146,19 @@ I'm a **Computer Science & Engineering student and aspiring Software Engineer** 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityaraj0543&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=tokyonight" height="180" alt="GitHub Statistics"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj0543&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180" alt="Top Languages"/>
+<img 
+src="https://github-readme-stats.vercel.app/api?username=adityaraj0543&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight&cache_seconds=86400"
+height="180"
+alt="GitHub Statistics"
+/>
+
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj0543&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&cache_seconds=86400"
+height="180"
+alt="Top Languages"
+/>
+
 </p>
 
 ---
@@ -133,23 +166,25 @@ I'm a **Computer Science & Engineering student and aspiring Software Engineer** 
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=adityaraj0543&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+
+<img
+src="https://streak-stats.demolab.com?user=adityaraj0543&theme=tokyonight&hide_border=true"
+alt="GitHub Contribution Streak"
+/>
+
 </p>
 
 ---
 
-# 📈 GitHub Contribution Activity
+# 🟩 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=adityaraj0543&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contribution Activity"/>
-</p>
 
----
+<img
+src="https://ghchart.xqsit94.in/dark:default/adityaraj0543"
+alt="GitHub Contribution Calendar"
+/>
 
-# 🟩 Contribution Calendar
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/0e75b6/adityaraj0543" alt="Aditya Raj GitHub Contribution Calendar"/>
 </p>
 
 ---
@@ -157,7 +192,12 @@ I'm a **Computer Science & Engineering student and aspiring Software Engineer** 
 # 💻 LeetCode Analytics
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/pjzlxpzmjq?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Analytics"/>
+
+<img
+src="https://leetcard.jacoblin.cool/pjzlxpzmjq?theme=dark&font=baloo&ext=heatmap"
+alt="LeetCode Analytics"
+/>
+
 </p>
 
 ---
@@ -192,19 +232,19 @@ I'm a **Computer Science & Engineering student and aspiring Software Engineer** 
 <p align="center">
 
 <a href="mailto:aditya.raj0543@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://www.linkedin.com/in/aditya-raj-404228355/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://leetcode.com/u/pjzlxpzmjq/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </a>
 
 <a href="https://github.com/adityaraj0543">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </p>
